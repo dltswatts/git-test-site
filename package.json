@@ -1,0 +1,9 @@
+{
+  "name": "git-test-site",
+  "version": "1.0.0",
+  "author": "Dean Watts",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.1"
+  }
+}
